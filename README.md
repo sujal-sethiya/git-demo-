@@ -1,3 +1,3 @@
-# git-demo-
+# git-demo
 trial repository 
 author - sujal sethiya 
